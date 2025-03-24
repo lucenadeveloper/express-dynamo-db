@@ -1,6 +1,6 @@
 # Boilerplate Express + Dynamo DB
 
-Simple project for basic implementation of Dynamo DB with Express in vanilla.
+Simple project for basic implementation of Dynamo DB with Express.
 
 ## To run project
 
