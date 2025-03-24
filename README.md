@@ -1,1 +1,1 @@
-# express-dynamo-db
+# Boilerplate Express + Dynamo DB

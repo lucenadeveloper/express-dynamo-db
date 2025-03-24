@@ -1,0 +1,22 @@
+{
+  "name": "express-dynamodb-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Express.js project with DynamoDB",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.x.x",
+    "@aws-sdk/lib-dynamodb": "^3.x.x",
+    "cors": "^2.8.5",
+    "dotenv": "^16.x.x",
+    "express": "^4.x.x",
+    "helmet": "^7.x.x"
+  },
+  "devDependencies": {
+    "nodemon": "^3.x.x"
+  }
+}

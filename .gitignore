@@ -1,0 +1,19 @@
+# Dependências do Node.js
+/node_modules/
+
+# Arquivos de ambiente
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações do editor
+.vscode/
+.idea/
+*.swp
